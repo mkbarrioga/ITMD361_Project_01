@@ -4,9 +4,9 @@ Project Description Create three HTML pages, each with one desktop size page-scr
 Deliverables &amp; Milestones 
 
 1. First Deliverable: Create a Basecamp post. Title the post with your name and project number (example Daniel Krieglstein: Project 1). Your post should include: 
--The URL to your Project 1 GitHub repository, and the URL to your index.html Github Pages live link 
--Three screen capture images of successful html validation. One for each website page. 
--Two questions eliciting feedback from fellow students 
+  >The URL to your Project 1 GitHub repository, and the URL to your index.html Github Pages live link 
+  >Three screen capture images of successful html validation. One for each website page. 
+  >Two questions eliciting feedback from fellow students 
 
 2. Second Deliverable: Give constructive comments to help at least three other students. Post a picture of those three comments on your Basecamp folder. 
 
