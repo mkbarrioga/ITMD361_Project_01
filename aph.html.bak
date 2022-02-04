@@ -25,7 +25,7 @@
       <a href="https://www.paypal.com"><img src="/images/donate.png" alt="This is a donate button" title="Donate Now"></a>
     </hgroup>
 
-    <video controls autoplay loop width="500" src="/media/motherandchild.mp4">This browser may not support video file</video>
+    <video controls autoplay loop width="500" src="media/motherandchild.mp4">This browser may not support video file</video>
 
     <h2>You are not alone</h2>
     <p>Talk to us and let us help you carry the struggles you are carrying right now</p>
@@ -106,11 +106,11 @@
 
     <footer>
       <nav>
-          <p>
-              <a href="index.html">About</a>|
-              <a href="tel:0123456789">1-800-123-LIFE</a>|
-              <a href="abh.html">ABORTIONPREVENTIONHELPLINE.ORG</a>
-          </p>
+        <p>
+          <a href="index.html">About</a>|
+          <a href="tel:0123456789">1-800-123-LIFE</a>|
+          <a href="abh.html">ABORTIONPREVENTIONHELPLINE.ORG</a>
+        </p>
       </nav>
       <address>Somewhere Out There, Chicago, Illinois</address>
       <p>
